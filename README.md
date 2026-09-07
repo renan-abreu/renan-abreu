@@ -21,11 +21,10 @@
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🧑‍💻 I’m currently working on personal stuff (ricing Linux is my therapy), and learning more about Quality Assurance universe.  
+- 🧑‍💻 Wworking on personal stuff (ricing Linux is my therapy), and learning more about Quality Assurance universe.  
 
 
-- 📖 I’m currently learning testing in CI/CD with Docker and Jenkins pipeline.  
-
+- 📖 Currently working as a Quality Analyst at Venturus, focusing on test automation and the use of AI to improve delivery performance while maintaining code and test quality.
 
 - ❓ Ask me about anything related to quality assurance, software testing techniques, automation testing and I'll try to help you.  
 
